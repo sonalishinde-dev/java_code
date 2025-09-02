@@ -28,11 +28,6 @@ public class Typecasting {
 		
 		System.out.println(m);
 		
-		String r="hwgh";
-		
-		
-		
-		
 	}
 
 }
