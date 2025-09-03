@@ -8,7 +8,7 @@ public class Array {
 		
 		for(int i=1;i<=10;i++)
 		{
-			System.out.println(arr[2]);
+			System.out.println(arr[1]);
 		}
 				
 	}
